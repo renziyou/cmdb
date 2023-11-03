@@ -56,7 +56,7 @@
     "vuedraggable": "^2.23.0",
     "vuex": "^3.1.1",
     "vxe-table": "3.6.9",
-    "vxe-table-plugin-export-xlsx": "2.0.0",
+    "vxe-table-plugin-export-xlsx": "2.3.1",
     "xe-utils": "3",
     "xlsx": "0.15.0",
     "xlsx-js-style": "^1.2.0"
