@@ -13404,10 +13404,10 @@ vuex@^3.1.1:
   resolved "https://mirrors.huaweicloud.com/repository/npm/vuex/-/vuex-3.6.2.tgz#236bc086a870c3ae79946f107f16de59d5895e71"
   integrity sha512-ETW44IqCgBpVomy520DT5jf8n0zoCac+sxWnn+hMe/CzaSejb/eVw2YToiXYX+Ex/AuHHia28vWTq4goAexFbw==
 
-vxe-table-plugin-export-xlsx@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.npmmirror.com/vxe-table-plugin-export-xlsx/-/vxe-table-plugin-export-xlsx-2.0.0.tgz#1061ed65a3bc2f4b1ad12c60b218ec6d91d4f534"
-  integrity sha512-df/IHDK75A+qrWbUc4DDDT8/gxRxy0afGgPtKYuwZlJsq5jhcwM18wikPCCAx0YIfdZUNWN48iWNNsdW/fZNng==
+vxe-table-plugin-export-xlsx@2.3.1:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/vxe-table-plugin-export-xlsx/-/vxe-table-plugin-export-xlsx-2.3.1.tgz#b26c326030c58e1240481c9f6073ce37596ccfca"
+  integrity sha512-z3YBxVMswANhPeZUzf9ZhrYrr6xc8LpkUIfI++Y8wN1ExhlEbWX1x2UqDvR+58U2D4MzgJzgLC4Bl0wjJB9FEg==
 
 vxe-table@3.6.9:
   version "3.6.9"
