@@ -5552,6 +5552,11 @@ dom-to-image@~2.6.0:
   resolved "https://mirrors.huaweicloud.com/repository/npm/dom-to-image/-/dom-to-image-2.6.0.tgz#8a503608088c87b1c22f9034ae032e1898955867"
   integrity sha512-Dt0QdaHmLpjURjU7Tnu3AgYSF2LuOmksSGsUcE6ItvJoCWTBEmiMXcqBdNSAm9+QbbwD7JMoVsuuKX6ZVQv1qA==
 
+dom-zindex@^1.0.2:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/dom-zindex/-/dom-zindex-1.0.4.tgz#c5a21153dc85962c8d4831ea42db898cc536eb26"
+  integrity sha512-PNk7u71TJ1C9Lwjjp5nNuQcVWuECFMmr9kZAwi2UbgWUM7jXdTCe4O4x5bhLUa07jpcZUVA5Du3ho7/FXzS9Ng==
+
 dom7@^3.0.0:
   version "3.0.0"
   resolved "https://registry.npmmirror.com/dom7/-/dom7-3.0.0.tgz#b861ce5d67a6becd7aaa3ad02942ff14b1240331"
@@ -13409,10 +13414,13 @@ vxe-table-plugin-export-xlsx@2.0.0:
   resolved "https://registry.npmmirror.com/vxe-table-plugin-export-xlsx/-/vxe-table-plugin-export-xlsx-2.0.0.tgz#1061ed65a3bc2f4b1ad12c60b218ec6d91d4f534"
   integrity sha512-df/IHDK75A+qrWbUc4DDDT8/gxRxy0afGgPtKYuwZlJsq5jhcwM18wikPCCAx0YIfdZUNWN48iWNNsdW/fZNng==
 
-vxe-table@3.6.9:
-  version "3.6.9"
-  resolved "https://mirrors.huaweicloud.com/repository/npm/vxe-table/-/vxe-table-3.6.9.tgz#9dbcbbe43c54c410a3c279fc624af7306dcaa9eb"
-  integrity sha512-mMgAKYXGBEqjP801m2LY+XnqYT19vmAZFmezpxAci/5Gd1aHBRD225uNhFmMoexNBzOC5jp0Wy5pGp5uyIVxfA==
+vxe-table@3.8.5:
+  version "3.8.5"
+  resolved "https://registry.yarnpkg.com/vxe-table/-/vxe-table-3.8.5.tgz#1ee326d72936c1ff50651acf5b67e4d2bfaaad70"
+  integrity sha512-YFIUqnuVjviOa3v99LOZ5P05PQm/iRV7o/ykH5Dpy5hpl2WO7D6CruzSgrBciU/0EMQavffp2C99yxmQluDIVw==
+  dependencies:
+    dom-zindex "^1.0.2"
+    xe-utils "^3.5.26"
 
 w3c-hr-time@^1.0.1:
   version "1.0.2"
@@ -13867,6 +13875,11 @@ xe-utils@3:
   version "3.5.11"
   resolved "https://mirrors.huaweicloud.com/repository/npm/xe-utils/-/xe-utils-3.5.11.tgz#a2c0a78a8c48796e4784a9d9d4aa475314cc1f7c"
   integrity sha512-lyKc/lTBga1Zb63p+FED8mtxLnYIjSS8PVJM1N64NGdCu/3d1XubaVeke2p91RHssP0ExVAl2LUqZYperoz76Q==
+
+xe-utils@^3.5.26:
+  version "3.5.26"
+  resolved "https://registry.yarnpkg.com/xe-utils/-/xe-utils-3.5.26.tgz#8b3255cc74c5d251e06cfb7a665ac3ed0931a9f3"
+  integrity sha512-u9R7RqWDumamToEelrCv2nVA2PBJSPPUubvmiMcuHeFxwbYeBsouoi/opejmr7AdPlSj92FifF7IKFzFrczU7w==
 
 xlsx-js-style@^1.2.0:
   version "1.2.0"
