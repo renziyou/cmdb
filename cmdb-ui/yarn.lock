@@ -7307,7 +7307,7 @@ html-webpack-plugin@^3.2.0:
     toposort "^1.0.0"
     util.promisify "1.0.0"
 
-html2canvas@^1.0.0-rc.5:
+html2canvas@^1.0.0-rc.5, html2canvas@^1.4.1:
   version "1.4.1"
   resolved "https://mirrors.huaweicloud.com/repository/npm/html2canvas/-/html2canvas-1.4.1.tgz#7cef1888311b5011d507794a066041b14669a543"
   integrity sha512-fPU6BHNpsyIhr8yyMpTLLxAbkaK8ArIBcmZIRiBLiDhjeqvXolaEmDGmELFuX9I4xDcaKKcJl+TKZLqruBbmWA==
@@ -11274,14 +11274,13 @@ relateurl@0.2.x:
   resolved "https://mirrors.huaweicloud.com/repository/npm/relateurl/-/relateurl-0.2.7.tgz#54dbf377e51440aca90a4cd274600d3ff2d888a9"
   integrity sha512-G08Dxvm4iDN3MLM0EsP62EDV9IuhXPR6blNz6Utcp7zyV3tr4HVNINt6MpaRWbxoOHT3Q7YN2P+jaHX8vUbgog==
 
-relation-graph@^1.1.0:
-  version "1.1.0"
-  resolved "https://mirrors.huaweicloud.com/repository/npm/relation-graph/-/relation-graph-1.1.0.tgz#4fa47cd2fd766305e4e99627c1f464e7e98cd0a6"
-  integrity sha512-bPBjFOStki5kJqVDkcoTVg1pEg8tztsHk2XLjyc7i16RQFoZcAU0SJRwlAtG9ClLVNWlBYACxOS1lap9Ri3i6A==
+relation-graph@^2.0.9:
+  version "2.2.10"
+  resolved "https://registry.yarnpkg.com/relation-graph/-/relation-graph-2.2.10.tgz#d8c1dd264c030e9058f93a9398d4353236c464d9"
+  integrity sha512-XO5XZGzOxt0JKaLjh9Fnh35aDsaDF/FUMx1cfRmJ6CAOQaiCFcwpCstKEPU7fQPPb1ZAr0PmXJvdKowRqCn9DA==
   dependencies:
-    html2canvas "^1.0.0-rc.5"
-    screenfull "^4.2.0"
-    vue "^2.5.9"
+    html2canvas "^1.4.1"
+    screenfull "^5.1.0"
 
 remove-trailing-separator@^1.0.1:
   version "1.1.0"
@@ -11638,10 +11637,10 @@ schema-utils@^3.1.1, schema-utils@^3.2.0:
     ajv "^6.12.5"
     ajv-keywords "^3.5.2"
 
-screenfull@^4.2.0:
-  version "4.2.1"
-  resolved "https://mirrors.huaweicloud.com/repository/npm/screenfull/-/screenfull-4.2.1.tgz#3245b7bc73d2b7c9a15bd8caaf6965db7cbc7f04"
-  integrity sha512-PLSp6f5XdhvjCCCO8OjavRfzkSGL3Qmdm7P82bxyU8HDDDBhDV3UckRaYcRa/NDNTYt8YBpzjoLWHUAejmOjLg==
+screenfull@^5.1.0:
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/screenfull/-/screenfull-5.2.0.tgz#6533d524d30621fc1283b9692146f3f13a93d1ba"
+  integrity sha512-9BakfsO2aUQN2K9Fdbj87RJIEZ82Q9IGim7FqM5OsebfoFC6ZHXgDq/KvniuLTPdeM8wY2o6Dj3WQ7KeQCj3cA==
 
 scroll-into-view-if-needed@^2.2.28:
   version "2.2.31"
@@ -13384,7 +13383,7 @@ vue@2.6.11:
   resolved "https://mirrors.huaweicloud.com/repository/npm/vue/-/vue-2.6.11.tgz#76594d877d4b12234406e84e35275c6d514125c5"
   integrity sha512-VfPwgcGABbGAue9+sfrD4PuwFar7gPb1yl1UK1MwXoQPAw0BKSqWfoYCT/ThFrdEVWoI51dBuyCoiNU9bZDZxQ==
 
-vue@^2.2.6, vue@^2.5.3, vue@^2.5.9:
+vue@^2.2.6, vue@^2.5.3:
   version "2.7.14"
   resolved "https://mirrors.huaweicloud.com/repository/npm/vue/-/vue-2.7.14.tgz#3743dcd248fd3a34d421ae456b864a0246bafb17"
   integrity sha512-b2qkFyOM0kwqWFuQmgd4o+uHGU7T+2z3T+WQp8UBjADfEv2n4FEMffzBmCKNP0IGzOEEfYjvtcC62xaSKeQDrQ==
