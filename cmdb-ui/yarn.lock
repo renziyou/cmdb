@@ -13863,10 +13863,10 @@ ws@^7.0.0:
   resolved "https://mirrors.huaweicloud.com/repository/npm/ws/-/ws-7.5.9.tgz#54fa7db29f4c7cec68b1ddd3a89de099942bb591"
   integrity sha512-F+P9Jil7UiSKSkppIiD94dN07AwvFixvLIj1Og1Rl9GGMuNipJnV9JzjD6XuqmAeiswGvUmNLjr5cFuXwNS77Q==
 
-xe-utils@3:
-  version "3.5.11"
-  resolved "https://mirrors.huaweicloud.com/repository/npm/xe-utils/-/xe-utils-3.5.11.tgz#a2c0a78a8c48796e4784a9d9d4aa475314cc1f7c"
-  integrity sha512-lyKc/lTBga1Zb63p+FED8mtxLnYIjSS8PVJM1N64NGdCu/3d1XubaVeke2p91RHssP0ExVAl2LUqZYperoz76Q==
+xe-utils@3.7.2:
+  version "3.7.2"
+  resolved "https://registry.yarnpkg.com/xe-utils/-/xe-utils-3.7.2.tgz#272b799c985c9b86b1b7352ef690ada247270c56"
+  integrity sha512-kZ/CpQFiyYCHlMxYuHxzH2wzyRqlEaKx8vFpCA0J4YIkfEVphc6uaOTuAYT5jsCnjnPjwPf/Gtsl0A6tbnCsAA==
 
 xlsx-js-style@^1.2.0:
   version "1.2.0"
