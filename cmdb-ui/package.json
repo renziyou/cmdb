@@ -21,7 +21,7 @@
     "@wangeditor/editor-for-vue": "^1.0.0",
     "ant-design-vue": "^1.6.5",
     "axios": "0.18.0",
-    "babel-eslint": "^8.2.2",
+    "babel-eslint": "^10.1.0",
     "butterfly-dag": "^4.3.26",
     "codemirror": "^5.65.13",
     "core-js": "^3.31.0",
